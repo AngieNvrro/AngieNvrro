@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I'm learning about GitHub and others platforms.
+### I'm new so I'll appreciate any help.
 
 <!--
 **AngieNvrro/AngieNvrro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
